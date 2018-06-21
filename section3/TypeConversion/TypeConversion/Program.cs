@@ -6,7 +6,7 @@ namespace TypeConversion
     {
         static void Main(string[] args)
         {
-            string number = "1234";
+            var number = "1234";
         }
     }
 }
