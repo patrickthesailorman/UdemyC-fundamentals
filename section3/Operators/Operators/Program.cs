@@ -8,7 +8,7 @@ namespace Operators
         {
             var a = 10;
             var b = 3;
-            Console.WriteLine(a / b);
+            Console.WriteLine((float)a / (float)b);
         }
     }
 }
