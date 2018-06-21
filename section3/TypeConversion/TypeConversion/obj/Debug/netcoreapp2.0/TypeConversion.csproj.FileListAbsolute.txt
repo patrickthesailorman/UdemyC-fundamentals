@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section3/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.pdb
