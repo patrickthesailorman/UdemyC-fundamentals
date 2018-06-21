@@ -6,10 +6,15 @@ namespace TypeConversion
     {
         static void Main(string[] args)
         {
-            var number = "1234";
-            byte b = Convert.ToByte(number);
-
-            Console.WriteLine(b);
+            try
+            {
+                var number = "1234";
+                byte b = Convert.ToByte(number);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("The number could not be converted to a byte!");
+            }
         }
     }
 }
