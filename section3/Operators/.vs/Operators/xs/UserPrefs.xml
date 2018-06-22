@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{D4062E30-528A-4653-AEE1-80E479603C99}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Operators/Program.cs">
     <Files>
-      <File FileName="Operators/Program.cs" Line="1" Column="1" />
+      <File FileName="Operators/Program.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Operators PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Operators PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
