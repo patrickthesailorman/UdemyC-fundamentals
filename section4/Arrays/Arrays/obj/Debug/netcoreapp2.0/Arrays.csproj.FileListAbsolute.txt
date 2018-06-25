@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/bin/Debug/netcoreapp2.0/Arrays.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Arrays/Arrays/obj/Debug/netcoreapp2.0/Arrays.pdb
