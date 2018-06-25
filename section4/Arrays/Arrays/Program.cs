@@ -10,6 +10,8 @@ namespace Arrays
             numbers[0] = 1;
 
             Console.WriteLine(numbers[0]);
+            Console.WriteLine(numbers[1]);
+            Console.WriteLine(numbers[2]);
         }
     }
 }
