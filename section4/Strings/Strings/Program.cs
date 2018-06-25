@@ -7,9 +7,9 @@ namespace Strings
         static void Main(string[] args)
         {
 
-            int numbers; // All primitive types are defined in the .NET framework
-
             var FirstName = "Mosh";
+            String LastName = "Hamedani"; // using System to acces the String Class
+            string FirstName = "Mosh";   // using the string keyword
 
             Console.WriteLine(FirstName);
         }
