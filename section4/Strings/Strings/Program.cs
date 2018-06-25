@@ -6,7 +6,7 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-            string FirstName = "Mosh";
+            var FirstName = "Mosh";
 
             Console.WriteLine(FirstName);
         }
