@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Classes
+namespace Classes.Math
 {
     public class Calculator
     {
