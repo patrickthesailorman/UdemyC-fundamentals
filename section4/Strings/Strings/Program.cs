@@ -20,6 +20,7 @@ namespace Strings
             Console.WriteLine(formattedNames);
 
             var text = "Hi John\n Look into the formatted paths\nc:\\folder1\\folder2\nc:\\folder3\\folder4";
+            Console.WriteLine(text);
         }
     }
 }
