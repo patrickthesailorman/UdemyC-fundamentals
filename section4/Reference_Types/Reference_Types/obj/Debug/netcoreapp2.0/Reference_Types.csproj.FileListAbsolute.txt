@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/bin/Debug/netcoreapp2.0/Reference_Types.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/bin/Debug/netcoreapp2.0/Reference_Types.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/bin/Debug/netcoreapp2.0/Reference_Types.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/bin/Debug/netcoreapp2.0/Reference_Types.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/bin/Debug/netcoreapp2.0/Reference_Types.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/obj/Debug/netcoreapp2.0/Reference_Types.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/obj/Debug/netcoreapp2.0/Reference_Types.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/obj/Debug/netcoreapp2.0/Reference_Types.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/obj/Debug/netcoreapp2.0/Reference_Types.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/obj/Debug/netcoreapp2.0/Reference_Types.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Reference_Types/Reference_Types/obj/Debug/netcoreapp2.0/Reference_Types.pdb
