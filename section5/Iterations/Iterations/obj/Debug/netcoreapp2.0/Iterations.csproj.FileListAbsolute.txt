@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/obj/Debug/netcoreapp2.0/Iterations.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/obj/Debug/netcoreapp2.0/Iterations.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/obj/Debug/netcoreapp2.0/Iterations.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/obj/Debug/netcoreapp2.0/Iterations.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/bin/Debug/netcoreapp2.0/Iterations.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/bin/Debug/netcoreapp2.0/Iterations.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/bin/Debug/netcoreapp2.0/Iterations.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/bin/Debug/netcoreapp2.0/Iterations.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/bin/Debug/netcoreapp2.0/Iterations.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/obj/Debug/netcoreapp2.0/Iterations.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Iterations/Iterations/obj/Debug/netcoreapp2.0/Iterations.pdb
