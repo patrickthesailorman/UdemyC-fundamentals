@@ -6,11 +6,21 @@ namespace Iterations
     {
         static void Main(string[] args)
         {
-            var numbers = new int[] { 1, 2, 3, 4 };
-
-            foreach(var number in numbers)
+            //for (var i = 1; i <= 10; i++)
+            //{
+            //  if (i % 2 == 0)
+            //   {
+            //      Console.WriteLine(i);
+            //   }
+            //}
+            var i = 0;
+            while(i <= 10)
             {
-                Console.WriteLine(number);
+                if (i % 2 == 0)
+               {
+                  Console.WriteLine(i);
+               }
+                i++;
             }
 
         }
