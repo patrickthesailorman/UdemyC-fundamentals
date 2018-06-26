@@ -8,12 +8,14 @@ namespace Conditionals
         {
             bool isGoldCustomer = true;
 
-            float price;
+            //float price;
 
-            if (isGoldCustomer)
-                price = 19.95f;
-            else
-                price = 29.95f;
+            //if (isGoldCustomer)
+            //    price = 19.95f;
+            //else
+            //price = 29.95f;
+
+            float price = (isGoldCustomer) ? 19.95f : 29.95f;
         }
     }
 }
