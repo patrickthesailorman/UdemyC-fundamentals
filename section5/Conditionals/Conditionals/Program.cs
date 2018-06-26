@@ -6,18 +6,18 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            int hour = 10;
-
-            if (hour > 0 && hour < 12)
+            var season = Season.Autumn;
+             
+            switch (season)
             {
-                Console.WriteLine("It's morning");
+                case Season.Autumn:
+                case Season.Summer:
+                    Console.WriteLine("We've got a promotion.");
+                    break;
+                default:
+                    Console.WriteLine("I don't understand that season.");
+                    break;
             }
-            else if (hour >= 12 && hour < 18)
-            {
-                Console.WriteLine("It's afternoon.");
-            }
-            else
-                Console.WriteLine("It's Evening.");
         }
     }
 }
