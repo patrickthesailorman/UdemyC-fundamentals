@@ -17,6 +17,8 @@ namespace Enums
 
             var methodID = 3;
             Console.WriteLine((ShippingMethod)methodID);
+
+            Console.WriteLine(method.ToString()); // Console.Writeline automatically applies ToString() to whatever its passed.
         }
     }
 }
