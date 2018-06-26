@@ -11,6 +11,10 @@ namespace Iterations
             {
                 Console.WriteLine(name[i]);
             }
+            foreach (var character in name)
+            {
+                Console.WriteLine(character);
+            }
 
         }
     }
