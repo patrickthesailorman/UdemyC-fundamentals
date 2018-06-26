@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Conditionals/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.pdb
