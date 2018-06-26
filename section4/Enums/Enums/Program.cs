@@ -14,6 +14,9 @@ namespace Enums
         {
             var method = ShippingMethod.Express;
             Console.WriteLine((int)method);
+
+            var methodID = 3;
+            Console.WriteLine((ShippingMethod)methodID);
         }
     }
 }
