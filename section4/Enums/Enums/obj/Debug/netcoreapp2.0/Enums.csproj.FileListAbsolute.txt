@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/bin/Debug/netcoreapp2.0/Enums.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section4/Enums/Enums/obj/Debug/netcoreapp2.0/Enums.pdb
