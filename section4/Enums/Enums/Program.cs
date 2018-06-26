@@ -19,6 +19,9 @@ namespace Enums
             Console.WriteLine((ShippingMethod)methodID);
 
             Console.WriteLine(method.ToString()); // Console.Writeline automatically applies ToString() to whatever its passed.
+
+            var methodName = "Express";
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName); // convert Parse string to enum string
         }
     }
 }
