@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/bin/Debug/netcoreapp2.0/ImageType.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/bin/Debug/netcoreapp2.0/ImageType.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/bin/Debug/netcoreapp2.0/ImageType.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/bin/Debug/netcoreapp2.0/ImageType.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/bin/Debug/netcoreapp2.0/ImageType.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/obj/Debug/netcoreapp2.0/ImageType.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/obj/Debug/netcoreapp2.0/ImageType.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/obj/Debug/netcoreapp2.0/ImageType.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/obj/Debug/netcoreapp2.0/ImageType.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/obj/Debug/netcoreapp2.0/ImageType.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ImageType/ImageType/obj/Debug/netcoreapp2.0/ImageType.pdb
