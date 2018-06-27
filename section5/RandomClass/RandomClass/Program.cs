@@ -8,13 +8,16 @@ namespace RandomClass
         {
             var random = new Random();
 
-            char[] buffer = new char[10];
+            var buffer = new char[10];
 
 
             for (var i = 0; i < 10; i++)
             {
-                Console.WriteLine((char)('a' + random.Next(0, 26)));
-                Console.WriteLine();
+                buffer[i] = ((char)('a' + random.Next(0, 26)));
+
+                var password = new String(buffer);
+
+                Console.WriteLine(password);
             }
            
         }
