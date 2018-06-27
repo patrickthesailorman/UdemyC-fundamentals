@@ -7,6 +7,10 @@ namespace RandomClass
         static void Main(string[] args)
         {
             var random = new Random();
+
+            char[] buffer = new char[10];
+
+
             for (var i = 0; i < 10; i++)
             {
                 Console.WriteLine((char)('a' + random.Next(0, 26)));
