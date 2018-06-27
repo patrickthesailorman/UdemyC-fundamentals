@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/bin/Debug/netcoreapp2.0/MaxNum.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/bin/Debug/netcoreapp2.0/MaxNum.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/bin/Debug/netcoreapp2.0/MaxNum.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/bin/Debug/netcoreapp2.0/MaxNum.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/bin/Debug/netcoreapp2.0/MaxNum.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/obj/Debug/netcoreapp2.0/MaxNum.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/obj/Debug/netcoreapp2.0/MaxNum.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/obj/Debug/netcoreapp2.0/MaxNum.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/obj/Debug/netcoreapp2.0/MaxNum.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/obj/Debug/netcoreapp2.0/MaxNum.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/MaxNum/MaxNum/obj/Debug/netcoreapp2.0/MaxNum.pdb
