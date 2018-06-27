@@ -9,7 +9,8 @@ namespace RandomClass
             var random = new Random();
             for (var i = 0; i < 10; i++)
             {
-                Console.WriteLine((char)random.Next(97,122));
+                Console.WriteLine((char)'a' + random.Next(1,26));
+                Console.WriteLine();
             }
            
         }
