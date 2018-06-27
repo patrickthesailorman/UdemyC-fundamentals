@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/bin/Debug/netcoreapp2.0/ValidNumber.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/bin/Debug/netcoreapp2.0/ValidNumber.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/bin/Debug/netcoreapp2.0/ValidNumber.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/bin/Debug/netcoreapp2.0/ValidNumber.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/bin/Debug/netcoreapp2.0/ValidNumber.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/obj/Debug/netcoreapp2.0/ValidNumber.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/obj/Debug/netcoreapp2.0/ValidNumber.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/obj/Debug/netcoreapp2.0/ValidNumber.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/obj/Debug/netcoreapp2.0/ValidNumber.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/obj/Debug/netcoreapp2.0/ValidNumber.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/ValidNumber/ValidNumber/obj/Debug/netcoreapp2.0/ValidNumber.pdb
