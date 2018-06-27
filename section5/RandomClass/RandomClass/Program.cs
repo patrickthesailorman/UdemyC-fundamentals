@@ -7,10 +7,21 @@ namespace RandomClass
         static void Main(string[] args)
         {
             var random = new Random();
-            for (var i = 0; i < 10; i++)
+
+            const int passwordLength = 10;
+
+            var buffer = new char[passwordLength];
+
+
+            for (var i = 0; i < passwordLength; i++)
             {
-                Console.WriteLine(random.Next());
+                buffer[i] = ((char)('a' + random.Next(0, 26)));
+
+                var password = new String(buffer);
+
+                Console.WriteLine(password);
             }
+           
         }
     }
 }
