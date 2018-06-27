@@ -6,12 +6,12 @@ namespace RandomClass
     {
         static void Main(string[] args)
         {
-            //var random = new Random();
-            //for (var i = 0; i < 10; i++)
-            //{
-            //    Console.WriteLine(random.Next(1,10));
-            //}
-            Console.WriteLine((int)'a');
+            var random = new Random();
+            for (var i = 0; i < 10; i++)
+            {
+                Console.WriteLine((char)random.Next(97,122));
+            }
+           
         }
     }
 }
