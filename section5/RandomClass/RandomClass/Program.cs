@@ -8,10 +8,12 @@ namespace RandomClass
         {
             var random = new Random();
 
-            var buffer = new char[10];
+            const int passwordLength = 10;
+
+            var buffer = new char[passwordLength];
 
 
-            for (var i = 0; i < 10; i++)
+            for (var i = 0; i < passwordLength; i++)
             {
                 buffer[i] = ((char)('a' + random.Next(0, 26)));
 
