@@ -1,8 +1,7 @@
-﻿<Properties StartupConfiguration="{77A989AB-AEC0-4BBA-83E5-165C3729AD04}|Default">
-  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays/Program.cs">
+﻿<Properties StartupConfiguration="{8334C0B7-72D2-4221-8BE6-02E977302E9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lists/Program.cs">
     <Files>
-      <File FileName="Arrays/Program.cs" Line="47" Column="101" />
+      <File FileName="Lists/Program.cs" Line="9" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lists PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
