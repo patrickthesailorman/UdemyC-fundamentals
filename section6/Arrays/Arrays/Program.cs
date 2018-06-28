@@ -29,6 +29,14 @@ namespace Arrays
             Console.WriteLine("Effect of Copy()");
             foreach (var n in another)
                 Console.WriteLine(n);
+
+            // Sort()
+            Array.Sort(numbers);
+
+            Console.WriteLine("Effect of Sort()");
+            foreach (var n in numbers)
+                Console.WriteLine(n);
+
         }
     }
 }
