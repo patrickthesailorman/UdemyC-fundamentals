@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/bin/Debug/netcoreapp2.0/guessNum.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/bin/Debug/netcoreapp2.0/guessNum.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/bin/Debug/netcoreapp2.0/guessNum.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/bin/Debug/netcoreapp2.0/guessNum.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/bin/Debug/netcoreapp2.0/guessNum.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/obj/Debug/netcoreapp2.0/guessNum.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/obj/Debug/netcoreapp2.0/guessNum.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/obj/Debug/netcoreapp2.0/guessNum.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/obj/Debug/netcoreapp2.0/guessNum.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/obj/Debug/netcoreapp2.0/guessNum.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/guessNum/guessNum/obj/Debug/netcoreapp2.0/guessNum.pdb
