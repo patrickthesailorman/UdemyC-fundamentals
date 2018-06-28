@@ -21,6 +21,14 @@ namespace Arrays
             Console.WriteLine("Effect of Clear()");
             foreach(var n in numbers)
                 Console.WriteLine(n);
+
+            //Copy()
+            int[] another = new int[3];
+            Array.Copy(numbers, another, 3);
+
+            Console.WriteLine("Effect of Copy()");
+            foreach (var n in another)
+                Console.WriteLine(n);
         }
     }
 }
