@@ -14,6 +14,13 @@ namespace Arrays
             // IndexOf()
             var index = Array.IndexOf(numbers, 9);
             Console.WriteLine(index);
+
+            // Clear()
+            Array.Clear(numbers, 0, 2);
+
+            Console.WriteLine("Effect of Clear()");
+            foreach(var n in numbers)
+                Console.WriteLine(n);
         }
     }
 }
