@@ -6,27 +6,33 @@ namespace Facebook
     {
         static void Main(string[] args)
         {
-            var name = new String;
+            var names = new List<string>();
+            var name = "";
 
-            while (name != " ")
+            do
             {
-                var names[] = new[];
                 Console.WriteLine("Enter name: ");
-                var name = Console.ReadLine();
+                name = Console.ReadLine();
 
-                names.push(name);
+                names.Add(name);
             }
-            if (names.Count() == 1)
+
+            while (name != " ");
             {
-                Console.WriteLine(names[0] + " likes this");
-            }
-            else if (names.Count() == 2)
-            {
-                Console.WriteLine(names[0] + " & " + names[1] + " like this");
-            }
-            else if (names.Count() > 2)
-            {
-                Console.WriteLine(names[0] + " , " + names[1] + " & {0} others like this", names.Count() - 2);
+
+
+                if (names.Count() == 1)
+                {
+                    Console.WriteLine(names[0] + " likes this");
+                }
+                else if (names.Count() == 2)
+                {
+                    Console.WriteLine(names[0] + " & " + names[1] + " like this");
+                }
+                else if (names.Count() > 2)
+                {
+                    Console.WriteLine(names[0] + " , " + names[1] + " & {0} others like this", names.Count() - 2);
+                }
             }
         }
     }
