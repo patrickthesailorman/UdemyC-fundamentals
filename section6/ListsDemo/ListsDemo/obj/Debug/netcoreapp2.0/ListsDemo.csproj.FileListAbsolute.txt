@@ -1,0 +1,4 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/ListsDemo/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/ListsDemo/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/ListsDemo/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/ListsDemo/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.AssemblyInfo.cs
