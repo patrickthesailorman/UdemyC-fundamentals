@@ -6,9 +6,11 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
+            var numbers = new[] { 3, 7, 9, 2, 14, 6 };
 
+            //Length
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Length: " + numbers.Length);
         }
     }
 }
