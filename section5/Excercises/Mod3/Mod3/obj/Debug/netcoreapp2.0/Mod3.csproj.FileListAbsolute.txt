@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/bin/Debug/netcoreapp2.0/Mod3.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/bin/Debug/netcoreapp2.0/Mod3.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/bin/Debug/netcoreapp2.0/Mod3.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/bin/Debug/netcoreapp2.0/Mod3.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/bin/Debug/netcoreapp2.0/Mod3.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/obj/Debug/netcoreapp2.0/Mod3.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/obj/Debug/netcoreapp2.0/Mod3.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/obj/Debug/netcoreapp2.0/Mod3.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/obj/Debug/netcoreapp2.0/Mod3.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/obj/Debug/netcoreapp2.0/Mod3.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Mod3/Mod3/obj/Debug/netcoreapp2.0/Mod3.pdb

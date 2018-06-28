@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedCamera", "SpeedCamera\SpeedCamera.csproj", "{7A3BC829-477E-43CB-9D99-6B58D5542AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3BC829-477E-43CB-9D99-6B58D5542AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3BC829-477E-43CB-9D99-6B58D5542AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3BC829-477E-43CB-9D99-6B58D5542AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3BC829-477E-43CB-9D99-6B58D5542AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

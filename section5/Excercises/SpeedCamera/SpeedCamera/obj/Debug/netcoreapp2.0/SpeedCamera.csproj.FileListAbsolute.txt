@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.0/SpeedCamera.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.0/SpeedCamera.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.0/SpeedCamera.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.0/SpeedCamera.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.0/SpeedCamera.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.0/SpeedCamera.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.0/SpeedCamera.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.0/SpeedCamera.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.0/SpeedCamera.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.0/SpeedCamera.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.0/SpeedCamera.pdb
