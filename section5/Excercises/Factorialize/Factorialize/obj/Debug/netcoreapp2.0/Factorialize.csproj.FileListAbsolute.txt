@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/obj/Debug/netcoreapp2.0/Factorialize.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/obj/Debug/netcoreapp2.0/Factorialize.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/obj/Debug/netcoreapp2.0/Factorialize.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/obj/Debug/netcoreapp2.0/Factorialize.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/bin/Debug/netcoreapp2.0/Factorialize.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/bin/Debug/netcoreapp2.0/Factorialize.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/bin/Debug/netcoreapp2.0/Factorialize.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/bin/Debug/netcoreapp2.0/Factorialize.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/bin/Debug/netcoreapp2.0/Factorialize.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/obj/Debug/netcoreapp2.0/Factorialize.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/Factorialize/Factorialize/obj/Debug/netcoreapp2.0/Factorialize.pdb
