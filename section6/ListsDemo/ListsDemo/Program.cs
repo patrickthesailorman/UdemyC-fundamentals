@@ -20,7 +20,23 @@ namespace ListsDemo
 
             Console.WriteLine("Count: " + numbers.Count());
 
-            Console.WriteLine("Remove: " + numbers.Remove(1));
+            // Console.WriteLine("Remove: " + numbers.Remove(1));
+
+            for (var i = 0; i < numbers.Length; i++)
+            {
+                if (numbers[i] == 1)
+                {
+                    numbers.Remove(numbers[i]);
+                }
+            }
+            foreach(var number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+
+            numbers.Clear();
+            Console.WriteLine("Count: " + numbers.Count());
+
         }
     }
 }
