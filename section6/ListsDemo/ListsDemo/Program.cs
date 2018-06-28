@@ -13,6 +13,12 @@ namespace ListsDemo
 
             foreach (var number in numbers) 
             Console.WriteLine(number);
+
+            numbers.IndexOf(1);
+            Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
+            Console.WriteLine("Last Index of 1: " + numbers.LastIndexOf(1));
+
+            Console.WriteLine("Count: " + numbers.Count());
         }
     }
 }
