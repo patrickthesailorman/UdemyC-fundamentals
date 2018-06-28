@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{D4F0E9E0-5931-4983-B784-99BACE042238}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Factorialize/Program.cs">
     <Files>
-      <File FileName="Factorialize/Program.cs" Line="1" Column="1" />
+      <File FileName="Factorialize/Program.cs" Line="23" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Factorialize PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Factorialize PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
