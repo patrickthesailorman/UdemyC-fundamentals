@@ -44,6 +44,8 @@ namespace Arrays
             foreach (var n in numbers)
                 Console.WriteLine(n);
 
+            // Notice that all methods are available to the Array class and not the object 'numbers'
+
         }
     }
 }
