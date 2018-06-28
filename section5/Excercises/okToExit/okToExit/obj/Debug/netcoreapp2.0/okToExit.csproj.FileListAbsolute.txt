@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/bin/Debug/netcoreapp2.0/okToExit.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/bin/Debug/netcoreapp2.0/okToExit.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/bin/Debug/netcoreapp2.0/okToExit.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/bin/Debug/netcoreapp2.0/okToExit.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/bin/Debug/netcoreapp2.0/okToExit.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/obj/Debug/netcoreapp2.0/okToExit.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/obj/Debug/netcoreapp2.0/okToExit.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/obj/Debug/netcoreapp2.0/okToExit.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/obj/Debug/netcoreapp2.0/okToExit.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/obj/Debug/netcoreapp2.0/okToExit.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/okToExit/okToExit/obj/Debug/netcoreapp2.0/okToExit.pdb
