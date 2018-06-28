@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{7A3BC829-477E-43CB-9D99-6B58D5542AD4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SpeedCamera/Program.cs">
+﻿<Properties StartupConfiguration="{F8AC8E9F-B02B-4F77-8F0B-F6FFC401A441}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mod3/Program.cs">
     <Files>
-      <File FileName="SpeedCamera/Program.cs" Line="26" Column="13" />
+      <File FileName="Mod3/Program.cs" Line="9" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SpeedCamera PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mod3 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
