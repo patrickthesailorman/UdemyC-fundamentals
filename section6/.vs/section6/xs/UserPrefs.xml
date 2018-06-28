@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{3666FD9B-028B-4C8D-ADAB-8D3323099D00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="guessNum/Program.cs">
+﻿<Properties StartupConfiguration="{C3515D16-64E5-4C31-B97D-73F42AFD8C38}|Default">
+  <MonoDevelop.Ide.ItemProperties.section6 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="section6/Program.cs">
     <Files>
-      <File FileName="guessNum/Program.cs" Line="35" Column="18" />
+      <File FileName="section6/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +11,4 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.guessNum PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

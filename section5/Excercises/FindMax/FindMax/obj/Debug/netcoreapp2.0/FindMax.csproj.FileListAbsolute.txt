@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/bin/Debug/netcoreapp2.0/FindMax.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/bin/Debug/netcoreapp2.0/FindMax.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/bin/Debug/netcoreapp2.0/FindMax.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/bin/Debug/netcoreapp2.0/FindMax.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/bin/Debug/netcoreapp2.0/FindMax.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/obj/Debug/netcoreapp2.0/FindMax.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/obj/Debug/netcoreapp2.0/FindMax.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/obj/Debug/netcoreapp2.0/FindMax.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/obj/Debug/netcoreapp2.0/FindMax.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/obj/Debug/netcoreapp2.0/FindMax.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section5/Excercises/FindMax/FindMax/obj/Debug/netcoreapp2.0/FindMax.pdb

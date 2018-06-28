@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{3666FD9B-028B-4C8D-ADAB-8D3323099D00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="guessNum/Program.cs">
+﻿<Properties StartupConfiguration="{9D90F8F8-5F49-4176-B6A2-D2952685632A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindMax/Program.cs">
     <Files>
-      <File FileName="guessNum/Program.cs" Line="35" Column="18" />
+      <File FileName="FindMax/Program.cs" Line="20" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FindMax PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.guessNum PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
