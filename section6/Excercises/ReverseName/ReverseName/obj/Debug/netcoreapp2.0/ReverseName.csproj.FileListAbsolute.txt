@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/bin/Debug/netcoreapp2.0/ReverseName.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/bin/Debug/netcoreapp2.0/ReverseName.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/bin/Debug/netcoreapp2.0/ReverseName.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/bin/Debug/netcoreapp2.0/ReverseName.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/bin/Debug/netcoreapp2.0/ReverseName.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/obj/Debug/netcoreapp2.0/ReverseName.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/obj/Debug/netcoreapp2.0/ReverseName.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/obj/Debug/netcoreapp2.0/ReverseName.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/obj/Debug/netcoreapp2.0/ReverseName.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/obj/Debug/netcoreapp2.0/ReverseName.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/ReverseName/ReverseName/obj/Debug/netcoreapp2.0/ReverseName.pdb
