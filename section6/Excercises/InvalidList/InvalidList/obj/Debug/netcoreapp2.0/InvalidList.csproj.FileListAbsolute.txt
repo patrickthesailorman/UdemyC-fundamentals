@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/obj/Debug/netcoreapp2.0/InvalidList.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/obj/Debug/netcoreapp2.0/InvalidList.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/obj/Debug/netcoreapp2.0/InvalidList.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/obj/Debug/netcoreapp2.0/InvalidList.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/bin/Debug/netcoreapp2.0/InvalidList.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/bin/Debug/netcoreapp2.0/InvalidList.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/bin/Debug/netcoreapp2.0/InvalidList.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/bin/Debug/netcoreapp2.0/InvalidList.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/bin/Debug/netcoreapp2.0/InvalidList.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/obj/Debug/netcoreapp2.0/InvalidList.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/InvalidList/InvalidList/obj/Debug/netcoreapp2.0/InvalidList.pdb
