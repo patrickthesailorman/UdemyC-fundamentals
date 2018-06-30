@@ -30,7 +30,9 @@ namespace InvalidList
                 for (var i = 0; i < 3; i++)
                 {
                     Console.WriteLine(numbers[i]);
+
                 }
+                break;
             }
         }
     }
