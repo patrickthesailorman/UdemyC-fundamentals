@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{6276919B-4E12-471A-9662-5D4735DCB47D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="quitToExit/Program.cs">
+﻿<Properties StartupConfiguration="{35FF5B9F-9A8A-4951-9C69-9EE8902BD899}|Default">
+  <MonoDevelop.Ide.ItemProperties.InvalidList PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InvalidList/Program.cs">
     <Files>
-      <File FileName="quitToExit/Program.cs" Line="12" Column="48" />
+      <File FileName="InvalidList/Program.cs" Line="9" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.quitToExit PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
