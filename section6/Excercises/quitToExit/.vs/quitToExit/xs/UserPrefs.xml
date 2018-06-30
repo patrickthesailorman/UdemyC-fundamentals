@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{406964C8-ED4A-459B-8F35-D244033F8C47}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="fiveNumbers/Program.cs">
+﻿<Properties StartupConfiguration="{6276919B-4E12-471A-9662-5D4735DCB47D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="quitToExit/Program.cs">
     <Files>
-      <File FileName="fiveNumbers/Program.cs" Line="37" Column="1" />
+      <File FileName="quitToExit/Program.cs" Line="9" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.quitToExit PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.fiveNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
