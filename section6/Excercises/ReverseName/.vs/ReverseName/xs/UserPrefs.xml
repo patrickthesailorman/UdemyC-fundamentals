@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8C1B03AC-E087-42C3-B86F-14989DB5B766}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Arrays/Arrays/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseName/Program.cs">
     <Files>
-      <File FileName="ReverseName/Program.cs" Line="16" Column="1" />
+      <File FileName="ReverseName/Program.cs" Line="23" Column="1" />
       <File FileName="../../Arrays/Arrays/Program.cs" Line="47" Column="101" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -11,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ReverseName PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ReverseName PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

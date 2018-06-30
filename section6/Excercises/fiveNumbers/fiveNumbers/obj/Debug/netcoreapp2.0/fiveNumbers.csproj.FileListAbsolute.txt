@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/obj/Debug/netcoreapp2.0/fiveNumbers.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/obj/Debug/netcoreapp2.0/fiveNumbers.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/obj/Debug/netcoreapp2.0/fiveNumbers.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/obj/Debug/netcoreapp2.0/fiveNumbers.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/bin/Debug/netcoreapp2.0/fiveNumbers.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/bin/Debug/netcoreapp2.0/fiveNumbers.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/bin/Debug/netcoreapp2.0/fiveNumbers.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/bin/Debug/netcoreapp2.0/fiveNumbers.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/bin/Debug/netcoreapp2.0/fiveNumbers.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/obj/Debug/netcoreapp2.0/fiveNumbers.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section6/Excercises/fiveNumbers/fiveNumbers/obj/Debug/netcoreapp2.0/fiveNumbers.pdb
