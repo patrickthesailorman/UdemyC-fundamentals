@@ -6,27 +6,32 @@ namespace InvalidList
     {
         static void Main(string[] args)
         {
+           
+            //var numbers = new int [5];
             while (true)
             {
-                
-            Console.WriteLine("Enter 5 numbers separated by commas: ");
-                var [] numbers = Console.ReadLine();
-                // if less than 5 numbers
-                if (numbers != 5)
-                {
-                    Console.WriteLine("Invalid List! Pease try again.");
-                }
-                else if (var num in numbers == numbers -1)
-                {
-                    Console.WriteLine("Invalid List! Pease try again.");
-                }
-                else 
-                {
-                    numbers.Sort();
-                    // display 3 smallest numbers
-                    Console.WriteLine(numbers[0], numbers[1], numbers[2], );
-                }
 
+                Console.WriteLine("Enter 5 numbers separated by commas: ");
+                var input = Console.ReadLine();
+
+                var numbers = input.Split(',');
+
+
+                // if less than 5 numbers
+                if (numbers.Length != 5)
+                {
+                    Console.WriteLine("Invalid List! Pease try again.");
+                    continue;
+                }
+                else
+
+                    Array.Sort(numbers);
+                // display 3 smallest numbers
+                for (var i = 0; i < 3; i++)
+                {
+                    Console.WriteLine(numbers[i]);
+                }
+            }
         }
     }
 }
