@@ -24,6 +24,9 @@ namespace TimeSpan
             Console.WriteLine("Add Example: ", timespan.Add(timespan.FromMinutes(8)));
             Console.WriteLine("Subtract example: ", timespan.Subtract(timespan.FromMinutes(2)));
 
+            // ToString
+            Console.WriteLine("To String: ", timespan.ToString());
+
 
         }
     }
