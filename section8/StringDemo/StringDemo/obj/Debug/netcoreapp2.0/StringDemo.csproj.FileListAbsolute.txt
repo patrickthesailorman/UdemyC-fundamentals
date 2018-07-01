@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/bin/Debug/netcoreapp2.0/StringDemo.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/bin/Debug/netcoreapp2.0/StringDemo.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/bin/Debug/netcoreapp2.0/StringDemo.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/bin/Debug/netcoreapp2.0/StringDemo.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/bin/Debug/netcoreapp2.0/StringDemo.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/obj/Debug/netcoreapp2.0/StringDemo.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/obj/Debug/netcoreapp2.0/StringDemo.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/obj/Debug/netcoreapp2.0/StringDemo.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/obj/Debug/netcoreapp2.0/StringDemo.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/obj/Debug/netcoreapp2.0/StringDemo.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringDemo/StringDemo/obj/Debug/netcoreapp2.0/StringDemo.pdb
