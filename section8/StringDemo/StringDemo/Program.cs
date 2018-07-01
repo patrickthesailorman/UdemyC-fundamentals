@@ -9,6 +9,7 @@ namespace StringDemo
             var fullName = "Patrick McCarty ";
             
             Console.WriteLine("Trim: '{0}'", fullName.Trim());
+            Console.WriteLine("ToUpper: '{0}'", fullName.Trim().ToUpper());
         }
     }
 }
