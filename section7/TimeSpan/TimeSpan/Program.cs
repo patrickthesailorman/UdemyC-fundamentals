@@ -14,18 +14,22 @@ namespace TimeSpan
             var end = DateTime.Now.AddMinutes(2);
             var duration = end - start;
 
-            Console.WriteLine("Duration: ", duration);
+            Console.WriteLine("Duration: " + duration);
 
             // Properties
-            Console.WriteLine("Minutes: ", timespan.Minutes);
-            Console.WriteLine("Total Minutes: ", timespan.TotalMinutes);
+            Console.WriteLine("Minutes: " + timespan.Minutes);
+            Console.WriteLine("Total Minutes: " + timespan.TotalMinutes);
 
             // Add
-            Console.WriteLine("Add Example: ", timespan.Add(timespan.FromMinutes(8)));
-            Console.WriteLine("Subtract example: ", timespan.Subtract(timespan.FromMinutes(2)));
+            Console.WriteLine("Add Example: " + timespan.Add(timespan.FromMinutes(8)));
+            Console.WriteLine("Subtract example: " + timespan.Subtract(timespan.FromMinutes(2)));
 
             // ToString
-            Console.WriteLine("To String: ", timespan.ToString());
+            Console.WriteLine("To String: " + timespan.ToString());
+
+            // Parse
+            Console.WriteLine("Parse: " + timespan.Parse("01:02:03"));
+
 
 
         }
