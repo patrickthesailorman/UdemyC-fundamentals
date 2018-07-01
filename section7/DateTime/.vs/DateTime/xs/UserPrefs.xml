@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E7613866-6F34-412E-9F23-D59210E64539}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateTime/Program.cs">
+    <Files>
+      <File FileName="DateTime/Program.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DateTime PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

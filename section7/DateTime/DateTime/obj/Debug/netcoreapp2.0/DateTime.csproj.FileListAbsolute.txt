@@ -1,0 +1,4 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section7/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section7/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section7/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section7/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfo.cs
