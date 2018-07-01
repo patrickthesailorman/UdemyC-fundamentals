@@ -20,7 +20,23 @@ namespace StringDemo
             Console.WriteLine("First Name: " + names[0]);
             Console.WriteLine("Last Name: " + names[1]);
 
+            Console.WriteLine(fullName.Replace("Patrick", "Paddy"));
 
+
+            if (String.IsNullOrEmpty(null))
+            Console.WriteLine("Invalid");
+
+            if(String.IsNullOrWhiteSpace(" "))
+            Console.WriteLine("Invalid");
+
+            var str = "45";
+            var age = Convert.ToByte(str);
+            Console.WriteLine(age);
+
+            float price = 29.95f;
+            Console.WriteLine(price.ToString("C"));
+            Console.WriteLine(price.ToString("C0"));
+            Console.WriteLine(price.ToString("C1"));
         }
     }
 }
