@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{23F8B240-FBF3-4640-93CC-8AA55B1B1DA3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TimeSpan/Program.cs">
     <Files>
-      <File FileName="TimeSpan/Program.cs" Line="9" Column="13" />
+      <File FileName="TimeSpan/Program.cs" Line="31" Column="71" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
