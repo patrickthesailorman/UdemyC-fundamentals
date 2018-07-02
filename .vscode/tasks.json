@@ -9,7 +9,11 @@
                 "build",
                 "${workspaceFolder}/section3/Classes/Classes/Classes.csproj"
             ],
-            "problemMatcher": "$msCompile"
+            "problemMatcher": "$msCompile",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
