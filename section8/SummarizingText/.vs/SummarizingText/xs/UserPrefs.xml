@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{E189A592-3365-4B4D-B023-F95FA5E81BFE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SummarizingText/StringUtility.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SummarizingText/Program.cs">
     <Files>
-      <File FileName="SummarizingText/Program.cs" Line="17" Column="1" />
-      <File FileName="SummarizingText/StringUtility.cs" Line="8" Column="16" />
+      <File FileName="SummarizingText/Program.cs" Line="14" Column="9" />
+      <File FileName="SummarizingText/StringUtility.cs" Line="23" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
