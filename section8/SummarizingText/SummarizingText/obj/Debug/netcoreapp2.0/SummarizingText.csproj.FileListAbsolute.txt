@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/bin/Debug/netcoreapp2.0/SummarizingText.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/bin/Debug/netcoreapp2.0/SummarizingText.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/bin/Debug/netcoreapp2.0/SummarizingText.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/bin/Debug/netcoreapp2.0/SummarizingText.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/bin/Debug/netcoreapp2.0/SummarizingText.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/obj/Debug/netcoreapp2.0/SummarizingText.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/obj/Debug/netcoreapp2.0/SummarizingText.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/obj/Debug/netcoreapp2.0/SummarizingText.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/obj/Debug/netcoreapp2.0/SummarizingText.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/obj/Debug/netcoreapp2.0/SummarizingText.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/SummarizingText/SummarizingText/obj/Debug/netcoreapp2.0/SummarizingText.pdb

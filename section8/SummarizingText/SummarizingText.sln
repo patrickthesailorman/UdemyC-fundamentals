@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarizingText", "SummarizingText\SummarizingText.csproj", "{E189A592-3365-4B4D-B023-F95FA5E81BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E189A592-3365-4B4D-B023-F95FA5E81BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E189A592-3365-4B4D-B023-F95FA5E81BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E189A592-3365-4B4D-B023-F95FA5E81BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E189A592-3365-4B4D-B023-F95FA5E81BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
