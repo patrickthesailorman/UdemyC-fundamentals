@@ -7,7 +7,7 @@ namespace StringBuilderDemo
     {
         static void Main(string[] args)
         {
-            var builder = new StringBuilder();
+            var builder = new StringBuilder("Hello World");
             builder.Append('-', 10);
             builder.AppendLine();
             builder.Append("Header");
@@ -21,6 +21,7 @@ namespace StringBuilderDemo
             builder.Insert(0, new string('-', 10));
 
             Console.WriteLine(builder);
+            Console.WriteLine("First char: " + builder[0]);
         }
     }
 }
