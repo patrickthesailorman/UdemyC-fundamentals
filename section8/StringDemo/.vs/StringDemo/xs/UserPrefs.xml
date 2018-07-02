@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{33F615F9-A6C6-40BE-AADA-709EA498E38E}|Default">
-  <MonoDevelop.Ide.ItemProperties.StringDemo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StringDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="StringDemo/Program.cs">
     <Files>
-      <File FileName="StringDemo/Program.cs" Line="1" Column="1" />
+      <File FileName="StringDemo/Program.cs" Line="39" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
