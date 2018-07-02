@@ -1,0 +1,4 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringBuilderDemo/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.csprojResolveAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringBuilderDemo/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringBuilderDemo/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section8/StringBuilderDemo/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.AssemblyInfo.cs
