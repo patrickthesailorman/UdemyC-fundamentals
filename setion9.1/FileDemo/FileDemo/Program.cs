@@ -17,6 +17,7 @@ namespace FileDemo
             var content = File.ReadAllText(path);
 
             var fileInfo = new FileInfo(path);
+            fileInfo.CopyTo("...");
         }
     }
 }
