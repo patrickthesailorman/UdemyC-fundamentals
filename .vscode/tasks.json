@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/section8/Excersise/Consecutive/Consecutive.csproj"
+                "${file}"
             ],
             "problemMatcher": "$msCompile",
             "group": {
