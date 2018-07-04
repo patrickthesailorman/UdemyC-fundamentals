@@ -7,14 +7,9 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}"
-
+                "${workspaceFolder}/section9.csproj"
             ],
-            "problemMatcher": "$msCompile",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "problemMatcher": "$msCompile"
         }
     ]
 }

@@ -1,0 +1,11 @@
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/bin/Debug/netcoreapp2.0/section9.deps.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/bin/Debug/netcoreapp2.0/section9.runtimeconfig.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/bin/Debug/netcoreapp2.0/section9.runtimeconfig.dev.json
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/bin/Debug/netcoreapp2.0/section9.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/bin/Debug/netcoreapp2.0/section9.pdb
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/obj/Debug/netcoreapp2.0/section9.csprojAssemblyReference.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/obj/Debug/netcoreapp2.0/section9.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/obj/Debug/netcoreapp2.0/section9.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/obj/Debug/netcoreapp2.0/section9.AssemblyInfo.cs
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/obj/Debug/netcoreapp2.0/section9.dll
+/Users/patrickthesailorman/Projects/Udemy/UdemyC-fundamentals/section9/obj/Debug/netcoreapp2.0/section9.pdb
