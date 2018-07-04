@@ -18,6 +18,12 @@ namespace FileDemo
 
             var fileInfo = new FileInfo(path);
             fileInfo.CopyTo("...");
+            fileInfo.Delete();
+            if (fileInfo.Exists)
+            {
+                //
+            }
+
         }
     }
 }
