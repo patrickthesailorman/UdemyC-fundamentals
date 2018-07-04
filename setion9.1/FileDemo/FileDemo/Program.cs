@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.IO;
 
 namespace FileDemo
 {
@@ -6,7 +6,7 @@ namespace FileDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            File.Copy(@"c:\temp\myFile.jpg", @"d:\temp\myFile.jpg", true);
         }
     }
 }
