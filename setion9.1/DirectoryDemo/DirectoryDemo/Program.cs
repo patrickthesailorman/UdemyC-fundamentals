@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace DirectoryDemo
 {
@@ -6,7 +7,11 @@ namespace DirectoryDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Directory.CreateDirectory(@"c:\temp\folder1");
+
+            var files = Directory.GetFiles(@"c:\projects\CSharpFundamentals", "*.*", SearchOption.AllDirectories);
+            foreach (var file in files)
+            Console.WriteLine(file);
         }
     }
 }
