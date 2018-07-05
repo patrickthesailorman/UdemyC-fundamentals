@@ -13,6 +13,7 @@ namespace PathDemo
             var extension = path.Substring(dotIndex);
 
             Console.WriteLine("Extension: " + Path.GetExtension(path));
+            Console.WriteLine("File Name: " + Path.GetFileName(path));
         }
     }
 }
