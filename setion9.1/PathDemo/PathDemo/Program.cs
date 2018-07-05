@@ -14,6 +14,7 @@ namespace PathDemo
 
             Console.WriteLine("Extension: " + Path.GetExtension(path));
             Console.WriteLine("File Name: " + Path.GetFileName(path));
+            Console.WriteLine("File Name without Extension: " + Path.GetFileNameWithoutExtension(path));
         }
     }
 }
