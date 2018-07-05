@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace PathDemo
 {
@@ -11,6 +12,7 @@ namespace PathDemo
             var dotIndex = path.IndexOf('.');
             var extension = path.Substring(dotIndex);
 
+            Console.WriteLine("Extension: " + Path.GetExtension(path));
         }
     }
 }
