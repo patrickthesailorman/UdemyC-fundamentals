@@ -10,20 +10,21 @@ namespace getSmallest
             var numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
             var smallests = GetSmallests(numbers, 3);
 
-            foreach (var number in smallests)
+            foreach (var number in numbers)
                 Console.WriteLine(number);
 
 
         }
         public static List<int> GetSmallests(List<int> list, int count)
         {
+            var buffer = new List<int>(list):
             var smallests = new List<int>():
 
             while (smallests.Count < count)
             {
-                var min = GetSmallest(list);
+                var min = GetSmallest(buffer);
                 smallests.Add(min);
-                list.Remove(min);
+                buffer.Remove(min);
             }
             return smallests;
         }
