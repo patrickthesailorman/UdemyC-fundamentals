@@ -17,6 +17,9 @@ namespace getSmallest
         }
         public static List<int> GetSmallests(List<int> list, int count)
         {
+            if (count > list.Count || count <= 0)
+                throw new ArgumentOutOfRangeException("count", "Count should be between one and the number of elements in the list.");
+            
             var buffer = new List<int>(list):
             var smallests = new List<int>():
 
